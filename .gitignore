@@ -1,0 +1,11 @@
+/.idea
+*.iml
+*.ipr
+*.iws
+
+/.venv
+*.pyc
+*.pyd
+*.pyo
+
+*.env
